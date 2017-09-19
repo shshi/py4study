@@ -1,0 +1,18 @@
+Python 3 色情图片识别：
+https://www.shiyanlou.com/courses/589/labs/1964/document
+
+10 行代码判定色情图片：
+http://m.blog.csdn.net/gzlaiyonghao/article/details/3166735
+
+用BP人工神经网络识别手写数字（python也可以系列之三）：
+http://m.blog.csdn.net/gzlaiyonghao/article/details/7109898
+
+wxBot+图灵机器人实现微信机器人：
+https://www.zhihu.com/question/21395276/answer/87719059
+
+树莓派+OpenCV+python监控：
+http://python.jobbole.com/81593/
+http://python.jobbole.com/81645/
+http://www.cnblogs.com/chuxiuhong/p/6196268.html
+https://www.leiphone.com/news/201511/7DAzK23RzBEJzvra.html
+https://www.youtube.com/embed/BhD1aDEV-kg 
