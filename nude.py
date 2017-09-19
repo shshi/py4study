@@ -1,3 +1,4 @@
+#出处：https://www.shiyanlou.com/courses/589/labs/1964/document
 import sys
 import os
 import _io
